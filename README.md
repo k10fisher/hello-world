@@ -1,2 +1,6 @@
 # hello-world
-first repository
+
+Hi there,
+
+I love bikes and the outdoors. 
+Tacos are life.
